@@ -8,6 +8,7 @@ double ft2m(double ft) { return 0.304 * ft; }
 double m2in(double m) { return m / 0.0254; }
 double m2ft(double m) { return m / 0.304; }
 
+ 
 
 int main()
 
